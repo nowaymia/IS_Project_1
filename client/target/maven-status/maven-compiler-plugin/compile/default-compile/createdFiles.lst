@@ -1,0 +1,5 @@
+com\is\client\ClientApplication.class
+com\is\client\models\StudentProfessor.class
+com\is\client\models\Professor.class
+com\is\client\ClientWeb.class
+com\is\client\models\Student.class

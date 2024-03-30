@@ -1,0 +1,13 @@
+com\khm\reactivepostgres\config\PostgresAuditorAwareConfiguration.class
+com\khm\reactivepostgres\ReactivePostgresApplication.class
+com\khm\reactivepostgres\controller\ErrorController.class
+com\khm\reactivepostgres\controller\RelationController.class
+com\khm\reactivepostgres\repository\StudentRepository.class
+com\khm\reactivepostgres\repository\ProfessorRepository.class
+com\khm\reactivepostgres\entity\Student.class
+com\khm\reactivepostgres\entity\Professor.class
+com\khm\reactivepostgres\repository\StudentProfessorRepository.class
+com\khm\reactivepostgres\entity\StudentProfessor.class
+com\khm\reactivepostgres\entity\Professor$ProfessorBuilder.class
+com\khm\reactivepostgres\controller\StudentController.class
+com\khm\reactivepostgres\controller\ProfessorController.class
